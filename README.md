@@ -17,10 +17,6 @@ Welcome to my GitHub profile. I'm an active open source contributor and a collab
 - **Languages:** PowerShell, Bash, YAML
 - **Other:** DNS management, Static site hosting, Security (Workload Identity)
 
-## 📈 GitHub Stats
-
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuftezel03&show_icons=true&theme=default)
-
 ## 📫 How to Reach Me
 
 - Email: [tezelyusuf@gmail.com]
