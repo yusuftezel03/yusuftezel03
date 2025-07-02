@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Yusuf Tezel! 👋
 
-<!--
-**yusuftezel03/yusuftezel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm an active open source contributor and a collaborative developer passionate about building and improving cloud infrastructure, automation, and scalable backend systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I regularly contribute to large-scale, cloud-native projects.
+- 🔧 Experienced with Azure, infrastructure-as-code (IaC), and CI/CD pipelines.
+- 📦 Contributor to Energinet-DataHub and related cloud platform repositories.
+- 💡 Always seeking ways to automate, optimize, and streamline development workflows.
+
+## 🛠️ Technologies & Tools
+
+- **Cloud:** Azure, Azure Resource Manager (ARM), Azure DNS, Front Door
+- **IaC:** Bicep, Terraform
+- **Automation:** GitHub Actions, CI/CD
+- **Languages:** PowerShell, Bash, YAML
+- **Other:** DNS management, Static site hosting, Security (Workload Identity)
+
+## 📈 GitHub Stats
+
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuftezel03&show_icons=true&theme=default)
+
+## 📫 How to Reach Me
+
+- Email: [tezelyusuf@gmail.com]
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and connect with me.
